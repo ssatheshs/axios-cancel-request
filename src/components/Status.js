@@ -1,0 +1,1 @@
+export default ({axiosRes}) => <p>{!axiosRes?null: axiosRes}</p>
